@@ -1,0 +1,8 @@
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\bin\Debug\Homework3.exe.config
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\bin\Debug\Homework3.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\bin\Debug\Homework3.pdb
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\obj\Debug\Homework3.csproj.AssemblyReference.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\obj\Debug\Homework3.csproj.SuggestedBindingRedirects.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\obj\Debug\Homework3.csproj.CoreCompileInputs.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\obj\Debug\Homework3.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework3\Homework3\obj\Debug\Homework3.pdb
