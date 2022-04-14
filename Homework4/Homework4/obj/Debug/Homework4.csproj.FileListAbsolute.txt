@@ -1,0 +1,10 @@
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\obj\Debug\Homework4.csproj.AssemblyReference.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\obj\Debug\Homework4.csproj.SuggestedBindingRedirects.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\obj\Debug\Homework4.csproj.CoreCompileInputs.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\bin\Debug\Homework4.exe.config
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\bin\Debug\Homework4.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\bin\Debug\Homework4.pdb
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\obj\Debug\Homework4.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\obj\Debug\Homework4.pdb
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\bin\Debug\TextFile1.txt
+C:\Users\push_\Desktop\Учеба\Visial\Homework4\Homework4\bin\Debug\Logins.txt
