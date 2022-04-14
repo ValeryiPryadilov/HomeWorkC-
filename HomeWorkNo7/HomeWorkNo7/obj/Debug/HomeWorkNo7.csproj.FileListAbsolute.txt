@@ -1,0 +1,24 @@
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.exe.config
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.exe
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.pdb
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.AssemblyReference.cache
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.SuggestedBindingRedirects.cache
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Form1.resources
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Properties.Resources.resources
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.GenerateResource.cache
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.CoreCompileInputs.cache
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.exe
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.pdb
+D:\консольные проги\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Form2.resources
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.exe.config
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.exe
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\bin\Debug\HomeWorkNo7.pdb
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.AssemblyReference.cache
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.SuggestedBindingRedirects.cache
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Form1.resources
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Form2.resources
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.Properties.Resources.resources
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.GenerateResource.cache
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.csproj.CoreCompileInputs.cache
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.exe
+C:\Users\push_\Desktop\HomeWorkNo7\HomeWorkNo7\obj\Debug\HomeWorkNo7.pdb
