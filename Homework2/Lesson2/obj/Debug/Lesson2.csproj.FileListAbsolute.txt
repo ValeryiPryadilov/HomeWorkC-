@@ -1,0 +1,8 @@
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\bin\Debug\Lesson2.exe.config
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\bin\Debug\Lesson2.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\bin\Debug\Lesson2.pdb
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\obj\Debug\Lesson2.csproj.SuggestedBindingRedirects.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\obj\Debug\Lesson2.exe
+C:\Users\push_\Desktop\Учеба\Visial\Homework2\Lesson2\obj\Debug\Lesson2.pdb
